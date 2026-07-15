@@ -25,3 +25,5 @@ if __name__ == "__main__":
         "This example uses a basic n-gram style generator to simulate intelligent output."
     )
     print(generate_text("AI", corpus, length=40))
+
+print('I Love Generative AI')
